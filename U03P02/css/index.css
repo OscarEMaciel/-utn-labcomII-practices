@@ -44,7 +44,27 @@ html {
     
     .nav-item:hover {
        background-color: blueviolet;
-        }
+    }
     .nav-item:hover a {
         color: blue;
-        }
+    }
+
+    .nav-item-login{
+
+    font-weight: bold;
+
+    }
+    .nav-item-login:hover{
+
+    background-color: darkgoldenrod;
+
+    }
+
+    .nav-item-login:hover a{
+
+    color: crimson;
+    }
+
+
+
+   
